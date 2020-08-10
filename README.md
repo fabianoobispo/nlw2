@@ -1,10 +1,6 @@
-# nlw2
-Me ajuda, site para exibir e conectar pessoas para aulas de reforço.
-
-
 # nlw2 | Next Level Week #02 :rocket:
 
-### Me ajuda - Plataforma para ensino online. :droplet:
+### Me ajuda - Plataforma para ensino online.
 
 ##### Inicio em 05/08/2020
 
