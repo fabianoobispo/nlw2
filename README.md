@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/fabianoobispo/nlw2/blob/master/public/assets/text835.png" width="350" title="hover text">
+ 
+</p>
+
 # nlw2 | Next Level Week #02 :rocket:
 
 ### Me ajuda - Plataforma para ensino online.
