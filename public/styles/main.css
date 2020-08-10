@@ -1,0 +1,38 @@
+:root {
+
+
+    font-size: 60%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {    
+    height: 100vh;   
+}
+
+body {
+   background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+   
+}
+body, input, button, textarea {
+    font-weight: 500;
+    font-size:  1.6rem;
+    font-family: Poppins;
+    color: #262626
+}
+
+#container {
+    width:90vw;
+    max-width: 700px;
+    
+}
+@media(min-width:700px) {
+    font-size: 62.5%;
+}
